@@ -88,7 +88,7 @@ header {
   display: flex;
   align-items: center;
   padding-left: 10vw;
-  background: #3f51b5;
+  background: #409eff;
   z-index: 99;
   color: white;
   font-weight: bold;
