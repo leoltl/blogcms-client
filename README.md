@@ -4,10 +4,10 @@
 
 Cms-client is a app built with Vue which renders the content stored in blogcms-api server. Users can view blog posts and leave comments. The client communicates with the server via REST API and JSON responses. Comments posted are sanitized to prevent XSS attacks.
 
-It is part of a system that makes up headless cms system.
-View 
-**CMS-admin** [here](https://github.com/leoltl/blogcms-admin)**
-**CMS-api** [here](https://github.com/leoltl/blogcms-api)**
+It is part of the system that makes up headless cms system.
+
+-View **CMS-admin** [here](https://github.com/leoltl/blogcms-admin)**
+-View **CMS-api** [here](https://github.com/leoltl/blogcms-api)**
 
 ## The stack
 - **Client side**: Vue.js (Vue 3 syntax)
