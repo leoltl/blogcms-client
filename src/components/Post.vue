@@ -24,7 +24,8 @@
     <div>
       <el-row>
         <el-col :span="20" :offset="2">
-         {{ post.body }}
+          <div v-html="post.body">
+          </div>
         </el-col>
       </el-row>
     </div>
