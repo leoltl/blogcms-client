@@ -2,7 +2,7 @@ import axios from 'axios';
 import TokenManager from './TokenManager';
 import Cache from './Cache';
 
-const baseURL = process.env.SERVER_BASE_URL || 'http://localhost:3000'
+const baseURL = process.env.VUE_APP_BASE_URL || 'http://localhost:3000'
 
 const axiosInstance = axios.create({ baseURL }); 
 
