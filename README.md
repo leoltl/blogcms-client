@@ -15,7 +15,9 @@ View **CMS-api** [here](https://github.com/leoltl/blogcms-api)
 - **UI library**: Element UI
 
 ## Live App
-**View it on [here](https://leoltl-blogcms-client.herokuapp.com/)**
+**View this app (client) [here](https://leoltl-blogcms-client.herokuapp.com/)**
+
+**View admin app [here](https://leoltl-blogcms-admin.herokuapp.com/)**
 
 ## Features
 **As an unauthenticated user**:
